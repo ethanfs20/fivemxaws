@@ -2,7 +2,9 @@
 
 **What is AWS?**
 
+
 Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. [AWS Documentation](https://aws.amazon.com/what-is-aws/)
+
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanfs20&label=Profile%20views&color=0e75b6&style=flat-square" alt="ethanfs20" /> </p>
