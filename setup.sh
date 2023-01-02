@@ -20,8 +20,8 @@
 #     \/ \__,_|_|  |_|\__,_|_.__/|_|\___||___/ #
 # -------------------------------------------- #                                                                                                              
 
-Access_Key="AKIATQ2VGA7HQO2PFZVW" # Replace with your own Access Key
-Secret_Access_Key="8seVCWZj/XhJv6beC/la0V7ZzVjQ/HNkTQXB4Ndi" # Replace with your own Secret Access Key
+Access_Key="REPLACE ME!!!" # Replace with your own Access Key
+Secret_Access_Key="REPLACE ME!!!" # Replace with your own Secret Access Key
 Default_Region_Name="us-east-1" # Region name for your AWS account (e.g. us-east-1). https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-regions-availability-zones.html#concepts-available-regions
 Default_Output_Format="json" # Output format for AWS CLI (e.g. json, text, table). https://docs.aws.amazon.com/cli/latest/userguide/cli-usage-output-format.html
 AMI_ID="ami-08e637cea2f053dfa" # AMI ID for the Amazon Linux 2 AMI. https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
