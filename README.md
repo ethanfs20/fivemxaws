@@ -1,4 +1,5 @@
 <h1 align="center">FiveM x AWS | Ethan Shearer</h1>
+<h1 align="center">Support | https://discord.gg/u48hWutrey</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethanfs20&label=Profile%20views&color=0e75b6&style=flat-square" alt="ethanfs20" /> </p>
 
 **What is AWS?**
