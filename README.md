@@ -7,13 +7,11 @@
 Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. [AWS Documentation](https://aws.amazon.com/what-is-aws/)
 
 ---
-
----
 **What is this for?**
 
 Easily deploy a FiveM docker container on RHEL systems in AWS. This script configures a VPC from the subnet down to the software on OS.
 
-___
+---
 
 **Requirements:**
 
